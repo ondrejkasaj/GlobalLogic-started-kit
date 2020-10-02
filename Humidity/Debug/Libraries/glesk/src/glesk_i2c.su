@@ -1,0 +1,6 @@
+glesk_i2c.c:8:39:i2c_get_base	16	static
+glesk_i2c.c:22:12:wait_for_status	24	static
+glesk_i2c.c:32:12:wait_for_idle	24	static
+glesk_i2c.c:42:5:i2c_init	48	static
+glesk_i2c.c:121:5:i2c_read	24	static
+glesk_i2c.c:168:5:i2c_write	24	static

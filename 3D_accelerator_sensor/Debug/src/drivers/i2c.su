@@ -1,0 +1,8 @@
+i2c.c:5:13:I2C_TransmitData	16	static
+i2c.c:11:6:setup_I2C	32	static
+i2c.c:31:6:I2C_transmit_byte	16	static
+i2c.c:47:6:I2C_transmit_byte_to_reg	16	static
+i2c.c:66:6:I2C_receive_byte	24	static
+i2c.c:91:6:I2C_receive_byte_from_reg	24	static
+i2c.c:119:6:I2C_receive_byte_array_from_reg	24	static
+i2c.c:151:6:I2C_send_byte_array_to_reg	24	static

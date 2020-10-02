@@ -1,0 +1,5 @@
+CAN_BUS.c:3:6:setup_CAN	8	static
+CAN_BUS.c:10:6:CAN_BUS_init	40	static
+CAN_BUS.c:54:6:CAN_transmit_data	32	static
+CAN_BUS.c:73:6:CAN_receive_data	32	static
+CAN_BUS.c:100:6:CAN_example	8	static

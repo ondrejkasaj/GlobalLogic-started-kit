@@ -1,0 +1,12 @@
+DISPLAY_WH1602B_4Bit.c:5:6:Display_Init	8	static
+DISPLAY_WH1602B_4Bit.c:30:6:Display_Write_Ins	16	static
+DISPLAY_WH1602B_4Bit.c:52:6:Display_Write_Data	16	static
+DISPLAY_WH1602B_4Bit.c:74:6:Display_Write_Data_Array	16	static
+DISPLAY_WH1602B_4Bit.c:87:6:Display_init_GPIO	16	static
+DISPLAY_WH1602B_4Bit.c:103:6:Display_RW_pusle	8	static
+DISPLAY_WH1602B_4Bit.c:110:6:Display_Write_srt	24	static
+DISPLAY_WH1602B_4Bit.c:137:6:Display_clear	8	static
+DISPLAY_WH1602B_4Bit.c:144:6:Display_clear_field	16	static
+DISPLAY_WH1602B_4Bit.c:152:6:setup_Display	8	static
+DISPLAY_WH1602B_4Bit.c:158:6:Display_example	8	static
+DISPLAY_WH1602B_4Bit.c:215:6:Display_example2	48	static

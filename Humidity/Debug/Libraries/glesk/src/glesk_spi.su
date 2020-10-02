@@ -1,0 +1,4 @@
+glesk_spi.c:11:39:spi_get_base	16	static
+glesk_spi.c:25:5:spi_init	48	static
+glesk_spi.c:82:5:spi_read	32	static
+glesk_spi.c:105:5:spi_write	32	static

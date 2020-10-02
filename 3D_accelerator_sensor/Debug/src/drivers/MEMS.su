@@ -1,0 +1,10 @@
+MEMS.c:11:6:MEMS_set_mode	16	static
+MEMS.c:34:6:MEMS_Axis_state_ACCEL	8	static
+MEMS.c:39:6:MEMS_Axis_state_GYRO	8	static
+MEMS.c:45:6:MEMS_Init	8	static
+MEMS.c:55:6:MEMS_read_GYROSCOPE	24	static
+MEMS.c:89:6:MEMS_read_ACCELEROMETR	24	static
+MEMS.c:124:6:MEMS_read_MAGNETOMETR	24	static
+MEMS.c:157:6:setup_MEMS	8	static
+MEMS.c:164:6:MEMS_example	48	static
+MEMS.c:222:6:MEMS_example_with_menu	176	static

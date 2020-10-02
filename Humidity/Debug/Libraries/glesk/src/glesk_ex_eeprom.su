@@ -1,0 +1,3 @@
+glesk_ex_eeprom.c:9:5:ex_eeprom_init	8	static
+glesk_ex_eeprom.c:16:5:ex_eeprom_read	32	static
+glesk_ex_eeprom.c:24:5:ex_eeprom_write	64	static

@@ -1,0 +1,4 @@
+glesk_uart.c:10:39:uart_get_base	16	static
+glesk_uart.c:34:5:uart_init	48	static
+glesk_uart.c:158:5:uart_read	32	static
+glesk_uart.c:177:5:uart_write	32	static

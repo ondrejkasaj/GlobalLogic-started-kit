@@ -1,0 +1,5 @@
+interrupts.c:11:6:EXTI0_IRQHandler	8	static
+interrupts.c:21:6:EXTI9_5_IRQHandler	8	static
+interrupts.c:45:6:EXTI15_10_IRQHandler	8	static
+interrupts.c:68:6:USART3_IRQHandler	24	static
+interrupts.c:126:6:CAN1_RX0_IRQHandler	32	static
